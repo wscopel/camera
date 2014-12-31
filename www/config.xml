@@ -16,6 +16,9 @@
         PhoneGap Team
     </author>
 
+<gap:plugin name="org.apache.cordova.media-capture" version="0.2.2" />
+
+
     <!--
         Enable individual API permissions here.
         The "device" permission is required for the 'deviceready' event.
